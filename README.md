@@ -34,7 +34,7 @@ Outside of data, I stay close to the technology landscape by exploring new AI to
 
 - **Databricks and Snowflake** for cloud data engineering, scalable analytics workflows, and modern data warehousing.
 - **Advanced machine learning techniques and concepts** to strengthen predictive analytics, segmentation, and model evaluation skills.
-- **Claude Code AI for analytics workflows** to explore AI-assisted data analysis, SQL development, Python automation, and project documentation.
+- **Claude Code AI for analytics workflows** to leverage AI-assisted data analysis, SQL development, Python automation, and project documentation.
 
 ## 🛠️ Technical Skillset
 
