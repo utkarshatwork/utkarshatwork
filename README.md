@@ -8,13 +8,19 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="[https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/data-analyst-utkarsh-pandey/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:utkarshisatwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/data-analyst-utkarsh-pandey/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:utkarshisatwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ## 🚀 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights that drive real decisions.
+
 My focus is on building analytical workflows and interactive dashboards that actually get used, uncovering patterns that challenge assumptions, and communicating findings in a way that resonates with both technical and non-technical audiences. I believe the most valuable skill in data is not writing the perfect query but asking the right question.
+
 Outside of data, I stay close to the technology landscape by exploring new AI tools, attending tech and startup events, and connecting with people building interesting things. I also sing and play football, which I think says something about appreciating both individual craft and teamwork.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
